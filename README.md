@@ -24,7 +24,6 @@ const saif = {
   ],
   currently: "AI Engineer @ Experts Cloud — Bedrock, RAG, AI Agents",
   previously: "AI Engineer @ Devjour Technologies (2023–2025)",
-  also: "Founder @ DevRox — AI agency (thedevrox.com)",
   focus: ["Production GenAI", "RAG Pipelines", "AI Agents & MCP", "Voice AI", "n8n Automations"],
   motto: "Most AI demos never ship. I build the ones that do. 🚀"
 };
@@ -123,9 +122,9 @@ const saif = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ur-rahman-22c/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-7c6cf0?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-seven-gamma-44.vercel.app)
-[![DevRox](https://img.shields.io/badge/DevRox-AI_Agency-00d4aa?style=for-the-badge&logo=rocket&logoColor=white)](https://thedevrox.com)
 [![Credly](https://img.shields.io/badge/Credly-Verified-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/saif-ur-rahman-genrative-ai)
 [![Dev.to](https://img.shields.io/badge/dev.to-Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/saif_urrahman)
+[![Email](https://img.shields.io/badge/Email-saifurrahman.dev.ai@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifurrahman.dev.ai@gmail.com)
 
 </div>
 

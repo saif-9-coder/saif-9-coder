@@ -57,6 +57,10 @@ const saif = {
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=D97757&center=true&vCenter=true&width=650&lines=AWS+Certified+Generative+AI+Developer+%E2%80%93+Professional+%F0%9F%8F%86;Claude+Certified+Architect+%E2%80%93+Foundations+%F0%9F%A7%A0;Google+AI+Professional+Certificate+%F0%9F%A4%96;AWS+Certified+AI+Practitioner+%E2%9C%85;38+Verified+Badges+%26+Certificates+%F0%9F%8E%93)](https://git.io/typing-svg)
+
+<br>
+
 [![AWS GenAI Pro](https://img.shields.io/badge/AWS_Certified-Generative_AI_Developer_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/saif-ur-rahman-genrative-ai)
 [![Claude Architect](https://img.shields.io/badge/Claude_Certified-Architect_Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.credly.com/users/saif-ur-rahman-genrative-ai)
 [![Google AI Pro](https://img.shields.io/badge/Google_AI-Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/users/saif-ur-rahman-genrative-ai)
@@ -122,8 +126,6 @@ const saif = {
 [![DevRox](https://img.shields.io/badge/DevRox-AI_Agency-00d4aa?style=for-the-badge&logo=rocket&logoColor=white)](https://thedevrox.com)
 [![Credly](https://img.shields.io/badge/Credly-Verified-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/saif-ur-rahman-genrative-ai)
 [![Dev.to](https://img.shields.io/badge/dev.to-Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/saif_urrahman)
-
-📧 saifurrahman.dev.ai@gmail.com · 📱 +92 301 6297433
 
 </div>
 

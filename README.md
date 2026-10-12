@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6CF0&center=true&vCenter=true&width=700&lines=AWS+Certified+Generative+AI+Developer+%E2%80%93+Professional;Claude+Certified+Architect+%E2%80%93+Foundations;AI+Engineer+%7C+RAG+%7C+AI+Agents+%7C+Voice+AI;Building+Production+AI+that+Ships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6CF0&center=true&vCenter=true&width=700&lines=AWS+Certified+Generative+AI+Developer+%E2%80%93+Professional;Claude+Certified+Architect+%E2%80%93+Foundations;AI+Engineer+%7C+RAG+%7C+AI+Agents+%7C+Voice+AI;Building+Production+AI+that+Ships)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=saif-9-coder&label=Profile+Views&color=7c6cf0&style=flat" alt="profile views" />
 <img src="https://img.shields.io/github/followers/saif-9-coder?label=Followers&style=social" alt="followers" />
